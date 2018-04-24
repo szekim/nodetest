@@ -1,0 +1,15 @@
+{
+  "name": "Node_Test",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=4.4.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "mongoose": "^4.7.0"
+  }
+}
